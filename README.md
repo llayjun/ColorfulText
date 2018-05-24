@@ -2,7 +2,7 @@
 一段文字可以增加不同得效果，文字的大小，文字的颜色等等
 
 1、效果图：
-
+![效果图](https://github.com/llayjun/ColorfulText/blob/master/colorfultext/src/main/res/drawable/colorful.png?raw=true)
 
 2、代码使用
 
